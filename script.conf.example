@@ -1,0 +1,3 @@
+user_data_dir = /home/chrome-profile
+dest = https://google.com
+id = sites-announcements-page-new-post-btn
